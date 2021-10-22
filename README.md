@@ -97,7 +97,7 @@ To use the logistic regression algorithm use the following command:
 
 **To change to the folder of our project. My folder is in the desktop**
 
-<img width="278" alt="Screen Shot 2021-10-22 at 5 21 30 PM" src="https://user-images.githubusercontent.com/50173053/138529135-875eb33b-e1c0-4c09-a855-39431a40f907.png">
+<img width="282" alt="Screen Shot 2021-10-22 at 5 51 50 PM" src="https://user-images.githubusercontent.com/50173053/138531180-2b3c00c0-130b-43f1-b9da-b350fd1f81db.png">
 
 My path would be: cd Desktop/iOS_Classifier
 
